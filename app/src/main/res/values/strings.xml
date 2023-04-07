@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maths Quiz Game</string>
+    <string name="_15">15</string>
+    <string name="_14_18">14+18=?</string>
+    <string name="_0_0">0/0</string>
+    <string name="_30s">30s</string>
+    <string name="start">Start</string>
+    <string name="todo">TODO</string>
+    <string name="correct">Correct!</string>
+    <string name="play_again">Play Again</string>
+</resources>
